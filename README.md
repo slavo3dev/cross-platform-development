@@ -1,2 +1,4 @@
-## React Native 
-#### Mobile APP Development with CS50
+## Cross Platfrom Development 
+
+#### JavaScript / TypeScript 
+#### React Native
