@@ -1,4 +1,9 @@
-## Cross Platfrom Development 
+## Cross Platfrom Development
 
-#### JavaScript / TypeScript 
+#### JavaScript / TypeScript
+
 #### React Native
+
+##### Expo
+
+##### React Native CLI
