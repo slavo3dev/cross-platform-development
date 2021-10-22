@@ -7,3 +7,5 @@
 ##### Expo
 
 ##### React Native CLI
+
+#### Redux State Managament 
